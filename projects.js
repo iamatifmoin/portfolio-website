@@ -20,7 +20,7 @@ export default [
     title: "Portfolio",
     description: "A portflio website built using JavaScript, CSS & HTML.",
     image:
-      "https://github.com/iamatifmoin/portfolio-website/blob/master/assets/portfolio.png",
+      "https://raw.githubusercontent.com/iamatifmoin/portfolio-website/master/assets/portfolio.png",
     github: "https://github.com/iamatifmoin/portfolio",
     live: "https://iamatifmoin.github.io/portfolio/",
   },
